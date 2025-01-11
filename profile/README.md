@@ -4,5 +4,6 @@ Currently only the Keysmet documentation project is publicly visible. Other repo
 | Name            | Access          |
 |-----------------|-----------------|
 | Documentation   | [keysmet-doc](https://github.com/keysmet/keysmet-doc)  |
+| Starter         | [keysmet-starter](https://github.com/keysmet/keysmet-starter)  |
 | Code editor [keysmet.io](keysmet.io) | Join [#development](https://discord.gg/K968xpj5ST) |
 | Firmware | Join [#development](https://discord.gg/K968xpj5ST) |
